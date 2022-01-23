@@ -27,7 +27,7 @@ You can take ownership over these tasks and deliver them *on time* with *little 
 
 ***People Expectations***
 
-The main people dimensions at this level is *how you handle feedback*, and *how proactive you are*. 
+The main people dimensions at this level are *how you handle feedback*, and *how proactive you are*. 
 
 You learn quickly and are constantly searching for feedback. When you get it, you take it positively, and look for tangible ways to improve.
 
@@ -71,11 +71,11 @@ You give great code reviews to peers and junior engineers. You are a great mento
 
 The Senior Engineer Level is the terminal band for most engineers. This means that at this level, you are are a capable, strong engineering leader, and can stay at this level for the rest of your career if you so choose.
 
-The theme for this level is **team leadership**. You are a strong, saught-out technical leader, and a mentor amongst your team. The most key separator for the senior engineer from the levels below is a deeper expectation on the people dimension.
+The theme for this level is **team leadership**. You are a strong, sought-out technical leader, and a mentor amongst your team. The most key separator for the senior engineer from the levels below is a deeper expectation on the people dimension.
 
 ***Technical Expectations***
 
-You own initiatives that can take six months to a year to complete and involves multiple people. You have deep, sought-after expertise in a technical domain and have a track record of leader large projects well. You can take large problems with tight deadlines, work cross-functionally across teams, create specs, divide up the work, and drive your team to deliver. You have demonstrated this multiple times.
+You own initiatives that can take six months to a year to complete and involve multiple people. You have deep, sought-after expertise in a technical domain and have a track record of leading large projects well. You can take large problems with tight deadlines, work cross-functionally across teams, create specs, divide up the work, and drive your team to deliver. You have demonstrated this multiple times.
 
 You own the success of a significant system. You often find ways to improve that infrastructure, and build out initiatives that get the whole team on board. The work you do often influences other teams to improve their product as well.
 
@@ -83,7 +83,7 @@ You own the success of a significant system. You often find ways to improve that
 
 As a technical leader of the team, you are a strong partner to your Engineering Manager and a mentor for others. You may take on aspects of engineering management or product management, from leading standups to communicating progress, to hiring. You know how to work throughout different organizations to align and unblock large projects, and have done that multiple times. 
 
-You work with your engineering manager to make sure people are developing well on your team, and often step in to mentor some of them to improve. You constantly work to make people around your productive and content -- from introducing new best practices, to making development more ergonomic.
+You work with your engineering manager to make sure people are developing well on your team, and often step in to mentor some of them to improve. You constantly work to make people around you productive and content -- from introducing new best practices, to making development more ergonomic.
 
 ***Live Leveling Guides***
 
@@ -95,7 +95,7 @@ You work with your engineering manager to make sure people are developing well o
 - Alternate names: E6, L6, SDE 4, IC 4
 - Experience Range: 7+ years
 
-The Staff Engineer Level usually makes up less then 10% of the engineering team. The theme for this level is **organizational leadership**. You are a technical lead that takes over ownership over a suite of systems, and influences organization you are a part of. The key separator for the staff engineer from the levels below is scope -- from team ownership to org ownership.
+The Staff Engineer Level usually makes up less then 10% of the engineering team. The theme for this level is **organizational leadership**. You are a technical lead that takes over ownership over a suite of systems, and influences the organization you are a part of. The key separator for the staff engineer from the levels below is scope -- from team ownership to org ownership.
 
 ***Technical Expectations***
 
@@ -109,7 +109,7 @@ You influence the engineering direction of your org. You are aware of the trends
 
 You can mentor senior engineers, and are a strong partner to multiple leads. You are a culture vector for your teams, demonstrating the kinds of values that make an exceptional team member. 
 
-You champion the people around you, and constantly work to make the whole org more effective. You take part in re-org discussions, take ownership over hiring, and the larger direction for the org. You look ways to multiply your impact -- this can involve writing, introducing new tooling, to setting up brown-bags.
+You champion the people around you, and constantly work to make the whole org more effective. You take part in re-org discussions, take ownership over hiring, and the larger direction for the org. You look for ways to multiply your impact -- this can involve writing, introducing new tooling, to setting up brown-bags.
 
 ***Live Leveling Guides***
 
